@@ -4908,6 +4908,17 @@ a:visited {
     background-image: url("https://raw.githubusercontent.com/WilliamBarela/profile-pics/master/wb-learn-headshot-sm.jpg");
 }
 
+#loryleen-batioco-cover {
+  background-image: url("http://imgur.com/lvTIZ3g.jpg");
+  background-position: 0px -150px;
+}
+
+#loryleen-batioco-card {
+  background-image: url("http://imgur.com/xYsAkBg.jpg");
+  
+
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
